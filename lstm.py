@@ -3,6 +3,7 @@ Build a tweet sentiment analyzer
 
 '''
 
+#add not importance things 
 from __future__ import print_function
 #import six.moves.cPickle as pickle
 import cPickle as pickle
